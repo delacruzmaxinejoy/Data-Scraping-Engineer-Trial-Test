@@ -1,0 +1,20 @@
+[
+  {
+    "business_name": "ABC COMPANY LLC",
+    "registration_id": "123456",
+    "status": "Active",
+    "filing_date": "2023-05-14",
+    "agent_name": "Sara Davis",
+    "agent_address": "699 Broadway Ave",
+    "agent_email": "sara.davis@example.com"
+  },
+  {
+    "business_name": "XYZ ENTERPRISES",
+    "registration_id": "789012",
+    "status": "Inactive",
+    "filing_date": "2022-11-03",
+    "agent_name": "John Smith",
+    "agent_address": "123 Main Street",
+    "agent_email": "john.smith@example.com"
+  }
+]
