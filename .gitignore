@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Log files
+scraper.log
+
+# OS-specific
+.DS_Store
